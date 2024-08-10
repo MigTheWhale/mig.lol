@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'miiiiiiigs webbed site'
 ---
 
-# Hello World
+# Hiiii :3
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+This is my personal webbed site and blog, please take a read! Learn more about me in the "About" section and check my (public) socials in the footer. Check out my projects and rants in the blog section (shouldn't be anything intresting tho). Have a good one bud!

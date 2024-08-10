@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>miiig&#39;s webbed site</title>
+  <subtitle></subtitle>
+  <link href="https://mig.lol/feed.xml" rel="self"/>
+  <link href="https://mig.lol/"/>
+  
+    <updated>2024-08-10T00:00:00Z</updated>
+  
+  <id>https://mig.lol</id>
+  <author>
+    <name>Miguel F.</name>
+    <email>me@mig.lol</email>
+  </author>
+  
+    
+    <entry>
+      <title>A simple post</title>
+      <link href="https://mig.lol/posts/a-simple-post/"/>
+      <updated>2024-08-10T00:00:00Z</updated>
+      <id>https://mig.lol/posts/a-simple-post/</id>
+      <content type="html">
+        <![CDATA[
+      <p>Hello! I don't know what to say soooooo idk have a good day!</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+</feed>
